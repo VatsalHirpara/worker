@@ -11,7 +11,7 @@ import com.nagarro.worker.domain.Worker;
 import com.nagarro.worker.service.WorkerService;
 
 @RestController
-@RequestMapping("/worker")
+@RequestMapping("/workers")
 public class WorkerController {
 	
 	@Autowired
