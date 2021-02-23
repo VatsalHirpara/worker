@@ -5,5 +5,6 @@ public enum ServiceCategory {
     APPLIANCE_REPAIR,
     ELECTRICIAN,
     PLUMBER,
-    CARPENTER
+    CARPENTER, 
+    PLUMBERS
 }
